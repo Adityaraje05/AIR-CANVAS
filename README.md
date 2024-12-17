@@ -37,11 +37,3 @@ How It Works
 3. Gesture-Based Commands :
    - Specific gestures can be programmed to switch colors, change pen size, or clear the canvas.
 
-
-
-
-
-
-
-
-Let me know if you need any additional changes or a different tone for this description! 😊
